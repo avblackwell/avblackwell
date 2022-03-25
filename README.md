@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @avblackwell
+# 👋 Hi, I’m Alex Blackwell
 - 👀 I’m interested in exploring new opportunities 
-- 🌱 I’m currently learning popular front-end frameworks like ReactJS
-- 💞️ I’m looking to collaborate on just about anything that will further my understanding
-- 📫 How to reach me alexvblackwell@gmail.com/317-281-4167
+- 🌱 I’m currently building out my UX portfolio with the help of 11ty
+- 📫 Reach me alexvblackwell@gmail.com
 
 
